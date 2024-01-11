@@ -7,10 +7,10 @@ I'm a Software Engineer, Graphic Designer and UI Designer. I'm passionate about 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning (NodeJS), improving more on NestJS, confident with UI Design and UI Motion.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Product](https://https://product.altschoolafrica.com/) Class of 2022.
+- 🌱 I’m currently learning UI Motion, and Art Directeion, confident with UI Design and UI Motion.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, UI Designer (Intern or Junior level).
+- 💼 Job interests:  Product Designer (Intern or Junior level).
 - 📫 You can contact me by emailing 😎 afexzyafesegun26@gmail.com.
 
 ---
