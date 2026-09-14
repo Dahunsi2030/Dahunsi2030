@@ -5,7 +5,7 @@ I'm a Product Designer with a background knowledge about Software. I'm passionat
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Product](https://https://product.altschoolafrica.com/) Class of 2023.
+- 💡 Fun fact: I'm currently exploring the world of Backend Engineering using Node and PostgresSQL. Had a background knowledge on MySQL so i decided to take on PostgreSQL
 - 🌱 I’m currently a backend Engineer (Entry level)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests:  Product Designer (Intern or Junior level).
