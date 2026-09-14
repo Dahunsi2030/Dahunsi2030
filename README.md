@@ -8,7 +8,7 @@ I'm a Product Designer with a background knowledge about Software. I'm passionat
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Product](https://https://product.altschoolafrica.com/) Class of 2023.
-- 🌱 I’m currently learning UI Motion, and Art Directeion, confident with UI Design and UI Motion.
+- 🌱 I’m currently a backend Engineer (Entry level)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests:  Product Designer (Intern or Junior level).
 - 📫 You can contact me by emailing 😎 afexzyafesegun26@gmail.com.
